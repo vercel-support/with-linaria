@@ -3,8 +3,8 @@ import { styled } from 'linaria/react'
 import { css } from 'linaria'
 
 const Box = styled.div`
-  margin-top: 50px;
-  margin-left: 50px;
+  margin-top: 60px;
+  margin-left: 60px;
   height: 200px;
   width: 200px;
   background-color: tomato;
